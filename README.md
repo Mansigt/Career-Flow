@@ -25,7 +25,6 @@
 
 **CareerFlow** is built with modern PHP and Laravel, showcasing best practices in MVC architecture, Eloquent ORM modeling, database migrations, server-side validation, authentication, and cross-user data isolation. 
 
-This project is specifically structured to serve as an interview portfolio project for PHP / Laravel Developer roles, demonstrating high code clarity, proper route scoping, and robust authorization.
 
 ---
 
